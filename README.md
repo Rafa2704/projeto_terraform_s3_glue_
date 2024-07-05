@@ -39,13 +39,18 @@ Este projeto utiliza o Terraform para provisionar uma infraestrutura de engenhar
 
 ## Estrutura de Arquivos
 
-main.tf: Arquivo principal com a configuração do Terraform.
-variables.tf: Definição de variáveis utilizadas no projeto.
-outputs.tf: Definição das saídas do projeto.
-data.csv: Arquivo CSV de exemplo a ser carregado no bucket S3.
+- **main.tf**: Arquivo principal com a configuração do Terraform.
+- **variables.tf**: Definição de variáveis utilizadas no projeto.
+- **outputs.tf**: Definição das saídas do projeto.
+- **data.csv**: Arquivo CSV de exemplo a ser carregado no bucket S3.
 
 ## Destruir a Infraestrutura
-  Para destruir a infraestrutura criada pelo Terraform, execute:
+
+Para destruir a infraestrutura criada pelo Terraform, execute:
+
+```bash
+terraform destroy
+
   terraform destroy
 
 
