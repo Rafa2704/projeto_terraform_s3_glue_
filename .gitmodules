@@ -1,0 +1,3 @@
+[submodule "Desktop/projeto_iniciante_terraform/Desktop/projeto_iniciante_terraform/projeto_terraform_s3_glue_"]
+	path = Desktop/projeto_iniciante_terraform/Desktop/projeto_iniciante_terraform/projeto_terraform_s3_glue_
+	url = https://github.com/Rafa2704/projeto_terraform_s3_glue_
