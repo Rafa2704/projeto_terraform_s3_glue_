@@ -1,0 +1,10 @@
+Resumo
+O provedor AWS é configurado usando uma variável de região.
+Um sufixo aleatório é gerado para o nome do bucket S3.
+Um bucket S3 é criado com um nome composto de um prefixo e o sufixo aleatório.
+Um arquivo CSV é carregado no bucket S3.
+Uma função IAM é criada para o serviço AWS Glue.
+A função IAM é associada a uma política que concede as permissões necessárias para o Glue.
+Um banco de dados no catálogo do Glue é criado.
+Um crawler do Glue é configurado para catalogar os dados no bucket S3.
+O nome do bucket S3 é exportado como saída.

@@ -1,0 +1,1001 @@
+Country,Year,Disease,Cases,Deaths
+Ethiopia,2020,Cholera,891,103
+Ethiopia,2021,Tuberculosis,1226,181
+Kenya,2020,Measles,1574,116
+Kenya,2019,Measles,1590,162
+Ghana,2019,Tuberculosis,1773,162
+Nigeria,2020,Malaria,1922,204
+Ghana,2021,Measles,782,77
+Nigeria,2019,Malaria,1947,188
+Ghana,2019,Tuberculosis,759,98
+Ghana,2019,Malaria,804,72
+Nigeria,2019,Cholera,1666,145
+Ethiopia,2020,Cholera,1481,128
+Ethiopia,2019,Malaria,997,115
+South Africa,2021,Cholera,1017,121
+Nigeria,2021,Cholera,1347,175
+South Africa,2021,Cholera,1005,84
+South Africa,2019,Cholera,524,72
+Ethiopia,2019,Measles,881,60
+Ethiopia,2021,Cholera,1348,173
+Nigeria,2020,Measles,1981,178
+South Africa,2020,Cholera,1645,109
+Ethiopia,2020,Cholera,1135,108
+Nigeria,2021,Tuberculosis,1210,87
+South Africa,2020,Cholera,734,80
+Ghana,2020,Measles,1908,215
+Nigeria,2020,Measles,1827,214
+Nigeria,2019,Cholera,1451,166
+South Africa,2019,Tuberculosis,1562,163
+Kenya,2021,Tuberculosis,1281,125
+Kenya,2021,Tuberculosis,756,40
+Ghana,2019,Measles,1765,167
+Ethiopia,2020,Tuberculosis,1887,170
+South Africa,2019,Cholera,1633,82
+South Africa,2020,Tuberculosis,1730,195
+Ghana,2019,Tuberculosis,565,64
+South Africa,2020,Measles,1247,66
+Ethiopia,2020,Measles,1297,72
+Ghana,2020,Malaria,1644,245
+Kenya,2019,Measles,1755,129
+Nigeria,2021,Cholera,887,58
+Ghana,2020,Measles,990,137
+South Africa,2019,Tuberculosis,1517,151
+Ghana,2021,Measles,897,131
+Kenya,2020,Tuberculosis,1176,119
+Ethiopia,2021,Cholera,1839,167
+South Africa,2020,Tuberculosis,1780,258
+Ethiopia,2021,Measles,809,83
+Ghana,2021,Tuberculosis,1912,159
+South Africa,2021,Malaria,1761,257
+South Africa,2021,Measles,694,84
+Ghana,2020,Cholera,1673,249
+Ethiopia,2020,Malaria,1532,208
+Nigeria,2019,Measles,610,53
+Kenya,2021,Measles,1052,67
+Ghana,2019,Cholera,1478,198
+South Africa,2019,Cholera,1925,214
+South Africa,2020,Cholera,1878,245
+Nigeria,2020,Malaria,1319,168
+Ghana,2019,Malaria,1155,164
+Kenya,2021,Cholera,527,67
+Kenya,2021,Tuberculosis,872,68
+Ghana,2019,Tuberculosis,822,120
+Kenya,2019,Malaria,1795,109
+Kenya,2021,Tuberculosis,1820,268
+South Africa,2021,Tuberculosis,1503,153
+Nigeria,2021,Cholera,847,109
+South Africa,2019,Measles,684,52
+Kenya,2021,Cholera,1809,212
+Ghana,2020,Tuberculosis,1111,144
+Nigeria,2019,Malaria,1801,168
+South Africa,2020,Measles,737,102
+Ghana,2020,Cholera,1087,146
+Kenya,2021,Measles,1165,72
+South Africa,2021,Cholera,1260,153
+South Africa,2020,Cholera,714,67
+Kenya,2021,Malaria,1035,120
+South Africa,2020,Malaria,1739,104
+South Africa,2020,Measles,938,140
+South Africa,2021,Tuberculosis,985,75
+Ghana,2021,Measles,1178,78
+Nigeria,2019,Cholera,1296,149
+Kenya,2019,Measles,1226,98
+Ghana,2019,Cholera,933,65
+Kenya,2021,Measles,1620,240
+Nigeria,2020,Cholera,1776,101
+South Africa,2021,Malaria,733,102
+South Africa,2020,Malaria,1236,84
+Kenya,2020,Malaria,1727,144
+Kenya,2020,Measles,604,50
+Ethiopia,2020,Cholera,1177,171
+Ethiopia,2020,Tuberculosis,650,67
+Nigeria,2019,Measles,677,75
+South Africa,2020,Measles,1206,73
+Kenya,2020,Malaria,1474,218
+Ghana,2020,Cholera,595,72
+Ethiopia,2019,Measles,586,53
+South Africa,2021,Measles,1652,181
+Kenya,2020,Cholera,1310,79
+Ghana,2021,Cholera,1010,128
+Ghana,2019,Measles,1563,86
+Nigeria,2021,Cholera,1157,171
+Kenya,2019,Measles,1040,104
+Nigeria,2019,Cholera,710,63
+Ghana,2020,Tuberculosis,1529,195
+South Africa,2019,Malaria,1253,126
+Kenya,2021,Cholera,797,60
+Nigeria,2019,Cholera,625,49
+South Africa,2021,Cholera,1179,162
+Nigeria,2021,Measles,1744,160
+Kenya,2020,Measles,1466,95
+Kenya,2019,Cholera,1107,139
+South Africa,2021,Tuberculosis,538,65
+Nigeria,2020,Tuberculosis,915,135
+Nigeria,2020,Malaria,1996,246
+Kenya,2021,Measles,1016,151
+Nigeria,2019,Cholera,570,84
+Nigeria,2020,Tuberculosis,1735,158
+Ghana,2019,Cholera,1529,108
+Kenya,2021,Cholera,1050,140
+Nigeria,2021,Tuberculosis,622,66
+Ghana,2021,Tuberculosis,1591,91
+Nigeria,2020,Cholera,1808,229
+Ethiopia,2021,Tuberculosis,634,79
+Ghana,2020,Tuberculosis,1273,188
+South Africa,2020,Cholera,512,28
+Nigeria,2020,Measles,884,58
+Nigeria,2020,Tuberculosis,1134,164
+Ethiopia,2020,Malaria,1828,126
+Ethiopia,2020,Malaria,1686,117
+South Africa,2020,Tuberculosis,1202,64
+Ethiopia,2021,Cholera,1513,204
+Ghana,2021,Malaria,1350,178
+Nigeria,2019,Malaria,888,45
+Nigeria,2021,Cholera,1909,233
+Nigeria,2020,Cholera,747,45
+Nigeria,2019,Malaria,1457,125
+South Africa,2019,Malaria,1629,230
+South Africa,2019,Tuberculosis,1069,74
+South Africa,2019,Tuberculosis,1418,177
+South Africa,2021,Measles,743,103
+South Africa,2019,Tuberculosis,1158,111
+Kenya,2021,Malaria,1480,155
+Ghana,2019,Measles,729,77
+Ethiopia,2021,Measles,1038,123
+Kenya,2021,Malaria,1954,199
+Ghana,2021,Malaria,1111,107
+Ethiopia,2020,Cholera,870,123
+Ghana,2019,Measles,609,67
+South Africa,2019,Malaria,1050,62
+South Africa,2020,Measles,1611,150
+South Africa,2019,Tuberculosis,520,32
+Nigeria,2021,Malaria,1112,91
+South Africa,2019,Measles,1891,129
+Kenya,2019,Measles,1635,222
+Ethiopia,2020,Measles,634,81
+Kenya,2019,Tuberculosis,1663,233
+Kenya,2020,Measles,1746,108
+Kenya,2019,Measles,1752,193
+Nigeria,2019,Measles,695,75
+Nigeria,2021,Tuberculosis,1928,211
+South Africa,2020,Tuberculosis,1766,117
+Ghana,2019,Malaria,550,36
+South Africa,2020,Tuberculosis,1361,203
+Ghana,2021,Tuberculosis,621,61
+Nigeria,2021,Tuberculosis,1892,129
+Ethiopia,2020,Tuberculosis,654,92
+Ethiopia,2021,Cholera,1336,107
+Ethiopia,2019,Measles,1148,133
+Ethiopia,2019,Tuberculosis,983,89
+Ghana,2019,Measles,1219,124
+South Africa,2019,Cholera,800,93
+Ethiopia,2019,Tuberculosis,908,117
+Ethiopia,2019,Measles,1691,230
+Ghana,2021,Measles,1939,276
+Ethiopia,2019,Tuberculosis,1104,96
+Ghana,2019,Cholera,1856,172
+South Africa,2021,Malaria,1180,125
+South Africa,2021,Malaria,803,51
+South Africa,2021,Tuberculosis,997,96
+South Africa,2021,Cholera,616,30
+Kenya,2021,Malaria,1950,283
+Kenya,2019,Cholera,1242,108
+South Africa,2019,Cholera,1996,131
+Nigeria,2021,Cholera,1000,91
+Ghana,2020,Tuberculosis,1710,99
+Kenya,2020,Cholera,714,94
+South Africa,2021,Malaria,1762,120
+South Africa,2020,Measles,1906,209
+Kenya,2021,Malaria,1018,110
+Kenya,2019,Tuberculosis,798,92
+Kenya,2021,Malaria,564,65
+Ethiopia,2019,Tuberculosis,674,47
+Ethiopia,2020,Measles,868,98
+Kenya,2020,Cholera,624,72
+Ghana,2021,Cholera,699,83
+Nigeria,2021,Cholera,1099,127
+Ethiopia,2019,Tuberculosis,680,100
+South Africa,2019,Measles,1377,95
+Nigeria,2021,Cholera,679,92
+Ethiopia,2020,Tuberculosis,1394,90
+Ghana,2021,Cholera,1392,103
+Nigeria,2021,Cholera,781,76
+South Africa,2020,Cholera,1549,109
+South Africa,2020,Malaria,1640,232
+Kenya,2020,Measles,584,40
+Kenya,2020,Tuberculosis,713,38
+South Africa,2021,Malaria,1847,269
+Nigeria,2019,Cholera,1763,147
+Kenya,2019,Cholera,1110,152
+Ethiopia,2020,Measles,892,51
+South Africa,2019,Tuberculosis,779,79
+Ethiopia,2020,Measles,1028,143
+South Africa,2019,Tuberculosis,1540,118
+Kenya,2021,Measles,1187,150
+Nigeria,2020,Cholera,837,42
+Ghana,2021,Tuberculosis,945,129
+Ghana,2020,Cholera,1079,126
+Nigeria,2019,Cholera,1889,116
+South Africa,2021,Measles,1583,192
+Nigeria,2020,Malaria,1151,68
+South Africa,2019,Malaria,1442,125
+Nigeria,2021,Measles,1437,154
+Kenya,2021,Measles,962,138
+Kenya,2019,Malaria,524,72
+Nigeria,2021,Measles,1615,174
+Kenya,2019,Malaria,1563,99
+South Africa,2019,Cholera,1354,134
+Kenya,2019,Tuberculosis,800,40
+Kenya,2020,Tuberculosis,1559,101
+Kenya,2020,Malaria,1511,213
+Ethiopia,2020,Cholera,1686,188
+South Africa,2019,Tuberculosis,902,55
+Kenya,2019,Malaria,1067,144
+South Africa,2021,Cholera,610,67
+Kenya,2021,Measles,1255,103
+Ethiopia,2021,Cholera,1488,214
+Nigeria,2021,Cholera,1758,160
+Kenya,2019,Tuberculosis,585,67
+Ethiopia,2019,Cholera,624,74
+Ghana,2021,Malaria,1069,109
+Ghana,2020,Malaria,1417,153
+Ghana,2020,Tuberculosis,924,51
+Ghana,2020,Tuberculosis,929,118
+Kenya,2021,Malaria,1263,104
+Kenya,2021,Tuberculosis,734,70
+Kenya,2021,Tuberculosis,795,51
+Ghana,2020,Measles,1305,166
+South Africa,2019,Measles,1334,139
+South Africa,2020,Tuberculosis,968,51
+Ghana,2020,Measles,537,62
+Ethiopia,2021,Measles,1708,170
+Nigeria,2020,Malaria,1571,230
+Kenya,2019,Tuberculosis,868,91
+South Africa,2021,Malaria,1450,120
+Ethiopia,2019,Malaria,1039,132
+Nigeria,2021,Cholera,690,58
+Ethiopia,2019,Cholera,1030,69
+Kenya,2019,Measles,800,75
+Ethiopia,2020,Cholera,1931,200
+South Africa,2021,Measles,1180,101
+Nigeria,2020,Malaria,887,122
+Ghana,2020,Measles,1373,181
+Ghana,2021,Measles,1041,146
+Ethiopia,2021,Cholera,657,65
+Kenya,2021,Malaria,1566,174
+South Africa,2020,Cholera,1104,141
+South Africa,2020,Measles,1335,199
+Kenya,2020,Malaria,999,67
+South Africa,2021,Cholera,925,61
+Nigeria,2020,Cholera,1763,147
+Nigeria,2019,Measles,1870,253
+South Africa,2019,Malaria,899,80
+Kenya,2021,Malaria,792,72
+Nigeria,2021,Cholera,1850,137
+Nigeria,2020,Tuberculosis,1813,257
+Ghana,2019,Cholera,1840,189
+Kenya,2021,Tuberculosis,1749,146
+Ghana,2019,Cholera,1777,258
+Kenya,2020,Tuberculosis,1587,171
+Ghana,2021,Malaria,849,75
+Ghana,2019,Measles,1420,208
+South Africa,2020,Malaria,1294,146
+Kenya,2019,Tuberculosis,1669,198
+Kenya,2021,Cholera,953,57
+Ethiopia,2019,Cholera,1061,62
+South Africa,2019,Cholera,1739,188
+South Africa,2019,Measles,1321,76
+South Africa,2020,Malaria,803,79
+Kenya,2020,Measles,1033,59
+Kenya,2019,Malaria,1175,142
+Nigeria,2021,Malaria,596,52
+Ethiopia,2020,Tuberculosis,1103,127
+Kenya,2020,Cholera,1802,268
+Ghana,2021,Tuberculosis,1645,130
+Ghana,2021,Tuberculosis,1628,217
+Ethiopia,2021,Measles,1537,133
+Nigeria,2021,Malaria,1675,147
+Ethiopia,2019,Malaria,1524,86
+South Africa,2021,Measles,964,88
+Ghana,2019,Cholera,701,35
+South Africa,2021,Measles,685,74
+Nigeria,2019,Tuberculosis,603,89
+South Africa,2020,Cholera,1545,171
+Nigeria,2019,Measles,1784,237
+Ethiopia,2020,Malaria,1781,98
+South Africa,2020,Malaria,1905,232
+Nigeria,2020,Tuberculosis,1666,246
+South Africa,2021,Cholera,1859,234
+South Africa,2020,Measles,871,90
+Ghana,2021,Cholera,745,85
+Nigeria,2020,Cholera,1273,104
+Ethiopia,2020,Cholera,1586,188
+Kenya,2021,Cholera,1100,56
+Nigeria,2020,Cholera,1102,55
+Ghana,2021,Measles,1571,142
+Nigeria,2019,Malaria,1498,162
+South Africa,2021,Measles,2000,255
+Ethiopia,2021,Cholera,524,29
+South Africa,2019,Measles,1257,187
+Ghana,2021,Measles,602,36
+Kenya,2021,Measles,1971,263
+Nigeria,2021,Malaria,886,79
+Ethiopia,2021,Malaria,1733,102
+Nigeria,2021,Cholera,505,43
+Ethiopia,2021,Malaria,1491,129
+South Africa,2021,Malaria,666,65
+Ghana,2021,Malaria,568,70
+South Africa,2020,Cholera,676,42
+Nigeria,2019,Malaria,1201,116
+South Africa,2020,Tuberculosis,1587,158
+South Africa,2021,Tuberculosis,1123,154
+Ghana,2020,Tuberculosis,1826,234
+Ghana,2021,Measles,1085,131
+Nigeria,2019,Tuberculosis,1526,175
+Kenya,2019,Malaria,1650,238
+Kenya,2019,Cholera,1727,92
+Kenya,2019,Measles,1815,165
+Kenya,2020,Tuberculosis,1884,258
+Ethiopia,2019,Tuberculosis,1463,85
+Nigeria,2020,Tuberculosis,576,75
+Nigeria,2020,Measles,591,40
+Kenya,2020,Cholera,606,64
+Ethiopia,2021,Measles,635,72
+Ethiopia,2019,Measles,1530,212
+South Africa,2021,Measles,1681,245
+Ethiopia,2019,Measles,1022,120
+Ethiopia,2021,Measles,1911,178
+Ghana,2021,Tuberculosis,913,121
+Ethiopia,2020,Measles,925,65
+Ethiopia,2021,Malaria,1882,125
+Ethiopia,2020,Measles,1665,124
+Kenya,2020,Tuberculosis,1041,144
+Kenya,2019,Malaria,1906,147
+Nigeria,2019,Malaria,1234,63
+Ethiopia,2020,Cholera,863,51
+Nigeria,2021,Cholera,996,74
+Ethiopia,2020,Measles,893,128
+Nigeria,2021,Measles,593,55
+Nigeria,2021,Tuberculosis,1790,250
+South Africa,2019,Malaria,1149,110
+Kenya,2021,Tuberculosis,1177,174
+Nigeria,2021,Malaria,891,109
+Ghana,2019,Cholera,1157,161
+Ghana,2021,Measles,860,128
+Ghana,2020,Tuberculosis,1948,106
+Nigeria,2019,Measles,1231,80
+Ethiopia,2019,Tuberculosis,1035,151
+Ethiopia,2019,Measles,782,60
+South Africa,2020,Tuberculosis,1949,211
+South Africa,2020,Malaria,667,67
+Kenya,2019,Malaria,615,51
+Kenya,2021,Cholera,601,39
+Ghana,2021,Tuberculosis,769,111
+Kenya,2021,Cholera,729,107
+Nigeria,2021,Malaria,500,57
+Ghana,2020,Measles,1726,158
+Nigeria,2021,Measles,524,67
+Ethiopia,2021,Measles,1354,194
+South Africa,2019,Tuberculosis,642,80
+South Africa,2019,Measles,1671,104
+Kenya,2019,Tuberculosis,614,35
+Nigeria,2021,Cholera,556,44
+Nigeria,2020,Measles,965,138
+Nigeria,2021,Measles,1098,103
+Kenya,2021,Cholera,1230,118
+South Africa,2021,Cholera,1413,171
+Ethiopia,2020,Cholera,1782,266
+Kenya,2019,Tuberculosis,968,114
+Nigeria,2019,Tuberculosis,1475,152
+South Africa,2021,Cholera,1590,143
+Kenya,2021,Measles,1688,102
+Nigeria,2020,Malaria,862,118
+Nigeria,2021,Tuberculosis,1808,253
+Kenya,2021,Measles,870,111
+Nigeria,2020,Tuberculosis,1535,147
+Kenya,2020,Tuberculosis,1542,172
+Nigeria,2019,Malaria,701,73
+Ghana,2019,Malaria,510,29
+Kenya,2020,Malaria,1106,131
+South Africa,2021,Tuberculosis,1054,101
+Kenya,2020,Cholera,1651,218
+South Africa,2019,Malaria,679,59
+Ghana,2020,Malaria,955,86
+Nigeria,2019,Cholera,1893,172
+South Africa,2019,Malaria,573,84
+Kenya,2020,Measles,699,79
+Ethiopia,2019,Cholera,611,77
+Ghana,2020,Tuberculosis,1473,196
+Kenya,2021,Tuberculosis,1316,180
+Ghana,2021,Measles,883,51
+South Africa,2020,Malaria,1077,83
+Kenya,2019,Malaria,1938,140
+Ethiopia,2021,Malaria,775,93
+Kenya,2019,Malaria,1083,138
+South Africa,2020,Cholera,890,102
+South Africa,2019,Measles,1316,196
+Ghana,2021,Malaria,1741,145
+Ghana,2021,Cholera,1567,108
+Nigeria,2021,Malaria,906,112
+South Africa,2021,Cholera,1373,181
+Ghana,2019,Cholera,1808,133
+Ethiopia,2019,Cholera,1304,170
+Ethiopia,2020,Measles,558,62
+South Africa,2021,Tuberculosis,913,125
+Ghana,2021,Measles,621,69
+Ethiopia,2019,Measles,1537,135
+South Africa,2020,Measles,1003,81
+Nigeria,2020,Cholera,1082,104
+South Africa,2019,Cholera,1361,113
+South Africa,2019,Measles,1819,200
+Ghana,2020,Malaria,707,73
+Ghana,2020,Malaria,1255,162
+South Africa,2021,Malaria,1680,201
+Nigeria,2021,Tuberculosis,1889,258
+Kenya,2021,Tuberculosis,1530,155
+Kenya,2019,Malaria,858,78
+South Africa,2021,Tuberculosis,1955,167
+Kenya,2021,Malaria,1488,194
+Nigeria,2020,Cholera,1850,129
+Ghana,2019,Cholera,862,49
+South Africa,2021,Tuberculosis,1780,158
+South Africa,2020,Cholera,878,43
+Kenya,2021,Malaria,1132,126
+Kenya,2021,Malaria,739,98
+Ghana,2020,Cholera,1212,75
+Ethiopia,2019,Malaria,1173,121
+South Africa,2021,Cholera,1102,128
+Kenya,2019,Malaria,1906,193
+South Africa,2020,Measles,1751,192
+South Africa,2021,Measles,536,35
+South Africa,2020,Measles,1553,85
+Kenya,2019,Measles,1186,169
+Nigeria,2020,Tuberculosis,744,37
+Kenya,2020,Measles,1182,175
+South Africa,2019,Tuberculosis,1655,85
+Ghana,2021,Measles,1940,268
+Ethiopia,2020,Malaria,1220,136
+Nigeria,2021,Tuberculosis,741,68
+South Africa,2021,Cholera,513,56
+Nigeria,2021,Malaria,728,47
+Ghana,2019,Cholera,1454,96
+Nigeria,2019,Measles,1263,88
+South Africa,2020,Measles,556,41
+Ethiopia,2020,Measles,860,91
+Kenya,2021,Malaria,1093,63
+Kenya,2021,Measles,1852,276
+South Africa,2020,Malaria,1974,152
+Ghana,2020,Malaria,745,93
+Kenya,2019,Measles,1032,79
+Ghana,2019,Malaria,1854,186
+Ghana,2021,Malaria,1601,197
+South Africa,2020,Measles,1113,69
+Kenya,2021,Cholera,920,118
+Ethiopia,2019,Malaria,1694,112
+Ghana,2020,Tuberculosis,836,75
+Ethiopia,2021,Malaria,973,96
+Ghana,2021,Measles,1271,94
+South Africa,2021,Cholera,1480,202
+Ethiopia,2020,Malaria,1139,142
+Kenya,2021,Cholera,515,43
+Kenya,2021,Measles,857,77
+South Africa,2020,Tuberculosis,1309,180
+South Africa,2020,Tuberculosis,741,65
+Nigeria,2021,Malaria,572,84
+Kenya,2021,Malaria,1535,173
+Ghana,2020,Malaria,1402,158
+South Africa,2021,Malaria,910,127
+South Africa,2019,Measles,750,63
+Nigeria,2020,Cholera,623,90
+Nigeria,2019,Malaria,692,85
+Ghana,2019,Tuberculosis,1656,86
+Ethiopia,2019,Tuberculosis,547,75
+Ethiopia,2020,Measles,1793,174
+South Africa,2020,Malaria,932,51
+Kenya,2019,Malaria,1771,139
+Kenya,2020,Malaria,1424,136
+Ethiopia,2019,Cholera,1929,269
+Nigeria,2019,Tuberculosis,862,109
+Kenya,2019,Tuberculosis,1216,102
+Kenya,2021,Malaria,1564,137
+Ethiopia,2021,Cholera,1193,173
+Ethiopia,2021,Tuberculosis,999,97
+South Africa,2020,Malaria,924,115
+Kenya,2019,Malaria,893,102
+Kenya,2021,Cholera,1469,117
+Nigeria,2020,Malaria,1105,139
+Kenya,2021,Measles,1979,129
+Kenya,2021,Measles,1352,91
+Kenya,2019,Measles,1038,136
+South Africa,2020,Measles,1690,117
+Ghana,2021,Malaria,1773,209
+Nigeria,2021,Malaria,1781,169
+Nigeria,2019,Cholera,535,57
+Kenya,2021,Cholera,1543,209
+South Africa,2021,Cholera,668,48
+Nigeria,2019,Malaria,635,33
+Ethiopia,2021,Measles,549,65
+Kenya,2021,Malaria,1487,212
+Ghana,2020,Malaria,1024,71
+South Africa,2020,Malaria,1279,121
+Ghana,2019,Cholera,1043,120
+Nigeria,2019,Cholera,1058,60
+Ghana,2020,Measles,533,63
+Kenya,2019,Measles,1539,85
+South Africa,2019,Malaria,1881,274
+Nigeria,2019,Cholera,1441,101
+Ghana,2021,Malaria,1984,149
+Kenya,2021,Malaria,1477,188
+Kenya,2021,Tuberculosis,1963,233
+Kenya,2021,Tuberculosis,1558,225
+Ghana,2021,Malaria,1387,136
+South Africa,2021,Tuberculosis,771,111
+Kenya,2019,Measles,1814,117
+Ghana,2020,Tuberculosis,1338,179
+Ghana,2019,Measles,1743,126
+South Africa,2020,Tuberculosis,1672,241
+Nigeria,2020,Malaria,1274,141
+Kenya,2019,Malaria,801,106
+Ethiopia,2021,Malaria,551,69
+Ethiopia,2019,Measles,1743,212
+Nigeria,2019,Malaria,808,77
+Nigeria,2020,Malaria,1972,275
+Ethiopia,2020,Malaria,1070,150
+Ghana,2020,Malaria,1492,173
+South Africa,2020,Cholera,967,107
+Kenya,2021,Cholera,1942,275
+Nigeria,2021,Measles,767,55
+Ethiopia,2019,Malaria,1614,124
+Nigeria,2020,Measles,1317,69
+Ethiopia,2020,Tuberculosis,1132,163
+Ghana,2020,Tuberculosis,1026,139
+Ghana,2020,Malaria,1778,162
+Nigeria,2021,Malaria,1947,116
+South Africa,2021,Tuberculosis,1922,201
+Ghana,2019,Cholera,1368,192
+Kenya,2021,Cholera,1217,131
+Ethiopia,2020,Tuberculosis,1666,187
+South Africa,2019,Tuberculosis,1677,189
+Kenya,2021,Cholera,582,60
+Nigeria,2020,Cholera,937,48
+Kenya,2021,Tuberculosis,1187,123
+Nigeria,2021,Cholera,1634,199
+Ghana,2021,Cholera,1969,204
+Ethiopia,2020,Cholera,1215,153
+South Africa,2019,Measles,605,64
+Kenya,2020,Cholera,1431,98
+Ghana,2021,Measles,779,58
+Ethiopia,2019,Malaria,866,97
+Nigeria,2020,Tuberculosis,1829,256
+Kenya,2019,Cholera,1770,228
+Nigeria,2019,Cholera,1844,172
+Ghana,2019,Malaria,605,62
+Nigeria,2019,Tuberculosis,1028,63
+South Africa,2020,Cholera,1590,218
+Kenya,2021,Cholera,921,88
+Ethiopia,2021,Tuberculosis,881,73
+Nigeria,2021,Tuberculosis,823,85
+Ghana,2020,Tuberculosis,1358,131
+Ghana,2020,Tuberculosis,1366,123
+South Africa,2021,Cholera,1893,111
+South Africa,2021,Malaria,570,71
+Ethiopia,2021,Measles,505,67
+Kenya,2020,Cholera,800,95
+Ethiopia,2019,Measles,1749,156
+Nigeria,2019,Tuberculosis,724,96
+Ghana,2019,Measles,737,57
+Ethiopia,2021,Tuberculosis,1234,136
+Kenya,2021,Cholera,1967,147
+Nigeria,2019,Tuberculosis,606,52
+Ghana,2019,Cholera,1633,137
+South Africa,2020,Cholera,1957,201
+Ghana,2021,Cholera,1771,124
+Ghana,2019,Cholera,742,87
+Ethiopia,2020,Malaria,1536,112
+Kenya,2021,Malaria,817,82
+Ghana,2019,Measles,793,75
+South Africa,2020,Measles,1814,263
+South Africa,2020,Malaria,1905,113
+South Africa,2020,Cholera,1602,111
+Nigeria,2020,Cholera,1231,120
+South Africa,2021,Malaria,1476,146
+South Africa,2019,Cholera,1403,145
+Kenya,2019,Measles,1524,127
+Ghana,2019,Tuberculosis,727,74
+Ethiopia,2019,Measles,1928,255
+Ethiopia,2020,Measles,1940,209
+South Africa,2020,Measles,1347,153
+South Africa,2019,Cholera,1762,130
+Ghana,2019,Measles,711,89
+South Africa,2021,Malaria,959,50
+Ghana,2020,Tuberculosis,693,55
+Ethiopia,2020,Malaria,1673,189
+Kenya,2021,Malaria,1444,143
+Nigeria,2019,Tuberculosis,1579,197
+Kenya,2021,Tuberculosis,1942,284
+South Africa,2020,Tuberculosis,1399,177
+South Africa,2020,Malaria,1409,95
+Nigeria,2019,Cholera,1881,253
+Ethiopia,2021,Tuberculosis,945,122
+Kenya,2021,Tuberculosis,1981,220
+Ethiopia,2019,Malaria,1672,206
+Ethiopia,2019,Tuberculosis,1861,164
+Ethiopia,2020,Cholera,1133,64
+Ethiopia,2020,Measles,1724,253
+Ghana,2021,Cholera,1799,269
+Kenya,2019,Tuberculosis,1645,170
+Ethiopia,2020,Measles,1990,257
+Ethiopia,2019,Measles,1255,93
+Kenya,2021,Tuberculosis,587,73
+South Africa,2021,Malaria,929,47
+Ethiopia,2021,Measles,735,101
+Ethiopia,2020,Measles,1259,66
+Ghana,2019,Measles,725,100
+Kenya,2019,Malaria,1340,160
+South Africa,2020,Cholera,1753,119
+South Africa,2019,Malaria,1460,184
+Kenya,2021,Cholera,1905,139
+Ethiopia,2020,Measles,1145,64
+South Africa,2020,Malaria,1921,194
+South Africa,2019,Cholera,1142,122
+Kenya,2021,Malaria,605,77
+Ghana,2020,Cholera,506,31
+South Africa,2020,Measles,1072,142
+Nigeria,2020,Measles,1680,107
+Nigeria,2020,Malaria,912,46
+Ghana,2020,Measles,1985,226
+Ethiopia,2021,Malaria,798,104
+Ghana,2019,Tuberculosis,759,70
+Ghana,2021,Tuberculosis,682,66
+Kenya,2021,Cholera,1442,136
+South Africa,2020,Tuberculosis,503,34
+Nigeria,2020,Malaria,639,43
+Kenya,2021,Measles,1546,156
+Nigeria,2020,Measles,1663,167
+Nigeria,2020,Malaria,1455,81
+Kenya,2020,Malaria,888,114
+Nigeria,2020,Cholera,1467,190
+Kenya,2020,Measles,1044,133
+Ghana,2019,Malaria,788,45
+Ethiopia,2019,Tuberculosis,765,43
+Nigeria,2019,Measles,1681,161
+Ethiopia,2021,Cholera,1200,167
+South Africa,2021,Malaria,1090,160
+Kenya,2019,Tuberculosis,608,36
+Ethiopia,2019,Malaria,592,53
+Ethiopia,2021,Cholera,1425,109
+Ethiopia,2019,Measles,1041,118
+South Africa,2020,Tuberculosis,1430,97
+Nigeria,2019,Measles,1791,222
+Kenya,2021,Cholera,798,71
+Nigeria,2019,Cholera,515,65
+South Africa,2020,Tuberculosis,1233,167
+Ethiopia,2021,Cholera,782,90
+Ethiopia,2021,Cholera,1392,119
+South Africa,2019,Cholera,1290,75
+South Africa,2019,Tuberculosis,1268,127
+Ghana,2020,Cholera,1546,218
+Ethiopia,2021,Malaria,1714,112
+Ethiopia,2020,Malaria,1099,153
+Kenya,2021,Measles,684,39
+Nigeria,2019,Malaria,1455,92
+Kenya,2021,Cholera,1749,219
+Nigeria,2020,Measles,971,90
+South Africa,2019,Cholera,1432,111
+South Africa,2020,Malaria,1300,139
+Ghana,2020,Malaria,1542,191
+Nigeria,2021,Tuberculosis,1802,116
+South Africa,2021,Cholera,511,40
+Kenya,2021,Tuberculosis,1314,92
+Ethiopia,2020,Cholera,926,49
+Nigeria,2019,Malaria,801,118
+Ghana,2020,Malaria,1423,198
+Ghana,2019,Measles,1634,167
+Ethiopia,2021,Measles,1612,91
+South Africa,2020,Cholera,1580,193
+Ethiopia,2019,Cholera,1583,100
+Ghana,2020,Measles,823,84
+Kenya,2021,Malaria,1733,87
+Kenya,2020,Tuberculosis,1317,133
+Kenya,2020,Measles,1959,274
+Ethiopia,2019,Malaria,1715,102
+Nigeria,2020,Measles,931,139
+Ethiopia,2020,Cholera,770,80
+Ghana,2020,Measles,918,51
+Ghana,2019,Measles,1658,234
+Ghana,2021,Malaria,999,106
+Ghana,2021,Cholera,1354,177
+Ethiopia,2021,Measles,913,69
+Kenya,2019,Cholera,881,53
+Ethiopia,2020,Cholera,1570,232
+Ethiopia,2019,Tuberculosis,1699,233
+South Africa,2019,Measles,1737,215
+Nigeria,2019,Tuberculosis,556,37
+Ghana,2020,Malaria,946,59
+South Africa,2021,Cholera,1201,95
+Kenya,2020,Tuberculosis,1213,105
+Nigeria,2020,Measles,958,135
+Ghana,2020,Tuberculosis,1861,173
+Nigeria,2020,Malaria,1725,240
+Ethiopia,2021,Measles,880,76
+Kenya,2020,Malaria,737,78
+South Africa,2019,Measles,939,83
+Ethiopia,2020,Cholera,985,55
+Ethiopia,2019,Measles,1021,64
+South Africa,2020,Malaria,1474,157
+Nigeria,2021,Cholera,1542,153
+Nigeria,2019,Tuberculosis,1692,126
+Ghana,2019,Malaria,1626,128
+Nigeria,2019,Tuberculosis,1221,73
+South Africa,2020,Cholera,1716,189
+Ethiopia,2019,Cholera,969,97
+Nigeria,2019,Tuberculosis,1813,258
+Nigeria,2019,Measles,1217,146
+Ethiopia,2020,Tuberculosis,745,45
+Ghana,2020,Cholera,1832,230
+Ethiopia,2021,Malaria,1697,136
+Nigeria,2020,Measles,524,76
+Kenya,2021,Tuberculosis,1600,163
+Nigeria,2019,Malaria,685,99
+Ethiopia,2020,Cholera,923,100
+Ghana,2021,Measles,1518,189
+Nigeria,2020,Tuberculosis,1976,158
+South Africa,2020,Measles,1421,167
+Ethiopia,2021,Measles,559,39
+South Africa,2021,Measles,1441,210
+Ghana,2021,Tuberculosis,1814,158
+Kenya,2021,Malaria,914,54
+Nigeria,2019,Measles,1222,98
+Ghana,2019,Cholera,1216,132
+Nigeria,2021,Malaria,912,106
+Kenya,2021,Cholera,1560,228
+Ethiopia,2021,Malaria,1939,225
+Nigeria,2019,Cholera,668,40
+South Africa,2020,Malaria,1214,111
+South Africa,2019,Cholera,1697,84
+Ghana,2020,Measles,1504,206
+Kenya,2020,Measles,1133,141
+South Africa,2021,Malaria,1943,205
+Ethiopia,2019,Malaria,1010,88
+Ghana,2021,Tuberculosis,1828,198
+Kenya,2021,Tuberculosis,1400,146
+South Africa,2020,Tuberculosis,550,66
+Nigeria,2020,Malaria,768,70
+Kenya,2020,Malaria,768,88
+Nigeria,2020,Malaria,855,45
+South Africa,2020,Cholera,605,87
+Nigeria,2021,Tuberculosis,1596,225
+Kenya,2019,Cholera,510,39
+Kenya,2021,Measles,981,102
+Ghana,2020,Malaria,742,52
+South Africa,2021,Cholera,1640,168
+Nigeria,2019,Tuberculosis,1233,150
+Kenya,2021,Cholera,635,71
+South Africa,2021,Tuberculosis,1464,151
+Nigeria,2021,Cholera,613,86
+Ethiopia,2019,Tuberculosis,1782,118
+South Africa,2020,Malaria,773,86
+Kenya,2020,Cholera,1863,119
+South Africa,2021,Cholera,1662,196
+Ghana,2020,Cholera,1835,213
+Nigeria,2020,Cholera,703,93
+Nigeria,2019,Cholera,703,54
+Nigeria,2021,Measles,983,58
+South Africa,2019,Cholera,1459,138
+Ghana,2019,Measles,1842,171
+South Africa,2020,Malaria,1582,140
+Nigeria,2020,Measles,534,50
+Ethiopia,2021,Cholera,535,41
+Nigeria,2021,Tuberculosis,1697,138
+Ethiopia,2021,Cholera,1207,95
+South Africa,2020,Tuberculosis,846,63
+Nigeria,2019,Measles,1369,161
+South Africa,2021,Malaria,1316,193
+Ethiopia,2019,Tuberculosis,1037,146
+Ethiopia,2019,Measles,853,76
+South Africa,2020,Malaria,1823,135
+Ghana,2021,Malaria,555,58
+Ghana,2021,Malaria,919,83
+Ghana,2021,Measles,589,42
+South Africa,2021,Malaria,1370,122
+Ghana,2021,Tuberculosis,699,39
+Nigeria,2020,Malaria,1078,71
+Ethiopia,2019,Malaria,1125,146
+Kenya,2019,Malaria,1646,198
+Kenya,2020,Malaria,1738,225
+Ghana,2020,Measles,755,49
+Kenya,2021,Tuberculosis,693,86
+Kenya,2020,Tuberculosis,832,85
+Nigeria,2020,Measles,1621,212
+Kenya,2021,Malaria,1800,167
+Nigeria,2021,Malaria,846,103
+Kenya,2019,Tuberculosis,1614,165
+South Africa,2020,Malaria,726,52
+South Africa,2019,Measles,530,55
+South Africa,2019,Cholera,1561,138
+Nigeria,2020,Malaria,1498,169
+Ethiopia,2021,Tuberculosis,1911,232
+Ethiopia,2019,Cholera,572,32
+Kenya,2021,Measles,1810,255
+Kenya,2019,Cholera,1677,200
+South Africa,2019,Measles,1104,78
+Ghana,2021,Malaria,1235,160
+Kenya,2019,Malaria,1104,82
+Nigeria,2020,Malaria,1664,215
+South Africa,2019,Tuberculosis,1259,119
+Ethiopia,2021,Malaria,1280,185
+Nigeria,2021,Measles,1789,226
+South Africa,2019,Tuberculosis,917,84
+Ghana,2019,Measles,1140,86
+Ethiopia,2021,Tuberculosis,888,121
+Ghana,2019,Malaria,681,47
+South Africa,2019,Malaria,1695,109
+Ghana,2020,Tuberculosis,993,138
+Ethiopia,2021,Malaria,1977,295
+Ethiopia,2020,Malaria,1597,102
+South Africa,2019,Tuberculosis,1618,130
+Kenya,2021,Malaria,622,62
+South Africa,2019,Malaria,818,54
+Ghana,2020,Cholera,631,70
+Ethiopia,2019,Cholera,1895,235
+South Africa,2019,Measles,1034,123
+Ethiopia,2019,Measles,1320,195
+Nigeria,2021,Measles,1642,210
+Ethiopia,2021,Malaria,1216,170
+Kenya,2019,Measles,966,59
+Ghana,2020,Tuberculosis,1288,132
+Kenya,2020,Malaria,1961,222
+Ghana,2021,Cholera,1261,163
+Nigeria,2021,Malaria,1890,229
+Kenya,2020,Measles,1828,142
+Kenya,2020,Measles,1407,141
+Ghana,2020,Cholera,722,107
+Nigeria,2021,Malaria,956,100
+Nigeria,2021,Measles,796,101
+Ghana,2020,Cholera,576,43
+Nigeria,2021,Measles,760,63
+Kenya,2019,Cholera,1038,124
+Kenya,2021,Measles,603,65
+Kenya,2019,Tuberculosis,887,116
+Kenya,2020,Malaria,560,54
+Nigeria,2019,Tuberculosis,558,30
+Kenya,2019,Measles,869,108
+South Africa,2021,Measles,1194,158
+Ethiopia,2019,Malaria,797,71
+South Africa,2019,Tuberculosis,1311,172
+Ethiopia,2020,Cholera,1264,152
+Ethiopia,2021,Measles,1022,61
+South Africa,2021,Tuberculosis,1255,153
+South Africa,2020,Cholera,614,69
+Ethiopia,2021,Malaria,1066,121
+South Africa,2021,Measles,1884,202
+South Africa,2019,Tuberculosis,1038,81
+Ethiopia,2021,Cholera,1004,61
+South Africa,2020,Cholera,1271,119
+Ghana,2020,Malaria,570,51
+South Africa,2020,Malaria,1538,78
+Ethiopia,2020,Measles,642,57
+Kenya,2021,Measles,1132,149
+Nigeria,2019,Malaria,1236,104
+Nigeria,2019,Malaria,1396,127
+South Africa,2020,Tuberculosis,821,47
+South Africa,2021,Malaria,1257,85
+Nigeria,2021,Malaria,1093,85
+Kenya,2019,Malaria,1835,150
+Nigeria,2021,Malaria,1560,187
+South Africa,2020,Measles,1251,172
+Kenya,2021,Measles,666,69
+Ghana,2021,Measles,1567,91
+Kenya,2021,Malaria,1362,147
+Ghana,2019,Cholera,1201,158
+Ethiopia,2020,Tuberculosis,1742,258
+South Africa,2021,Tuberculosis,697,93
+Kenya,2021,Tuberculosis,1230,115
+Nigeria,2021,Measles,1867,153
+Kenya,2020,Cholera,1344,146
+South Africa,2019,Measles,787,85
+South Africa,2019,Measles,1010,110
+Nigeria,2019,Measles,1321,73
+Ghana,2020,Tuberculosis,969,58
+Nigeria,2020,Tuberculosis,1389,124
+South Africa,2021,Tuberculosis,1158,137
+South Africa,2019,Measles,513,51
+Ethiopia,2020,Malaria,1839,194
+Ghana,2019,Malaria,1545,92
+Ghana,2021,Measles,1479,218
+Ghana,2021,Tuberculosis,1204,93
+Ethiopia,2020,Malaria,1281,64
+Nigeria,2020,Malaria,909,69
+Nigeria,2019,Tuberculosis,1493,119
+Ethiopia,2021,Measles,1381,98
+Kenya,2019,Measles,1831,248
+South Africa,2021,Malaria,1759,182
+Ghana,2021,Cholera,1858,94
+Ethiopia,2021,Malaria,1459,133
+Ethiopia,2020,Measles,794,57
+Ghana,2020,Cholera,751,52
+Nigeria,2021,Cholera,515,74
+South Africa,2021,Tuberculosis,885,128
+Nigeria,2020,Tuberculosis,534,71
+South Africa,2021,Malaria,1054,60
+South Africa,2020,Tuberculosis,1943,264
+Ghana,2019,Measles,1591,151
+Kenya,2021,Tuberculosis,628,40
+Ethiopia,2021,Measles,1168,124
+Kenya,2021,Measles,879,125
+Kenya,2020,Malaria,1173,75
+Ethiopia,2020,Cholera,739,83
+Ghana,2021,Malaria,991,142
+South Africa,2019,Malaria,1721,210
+Ghana,2021,Cholera,1687,144
+Ethiopia,2021,Measles,1085,73
+Nigeria,2021,Tuberculosis,1360,160
+Kenya,2020,Cholera,715,101
+Ghana,2019,Cholera,1421,131
+Nigeria,2021,Malaria,1137,77
+Kenya,2019,Tuberculosis,538,39
+Ethiopia,2021,Tuberculosis,1523,204
+South Africa,2020,Cholera,627,75
+South Africa,2019,Cholera,1547,155
+Ethiopia,2021,Measles,1098,94
+Ethiopia,2019,Measles,1105,76
+Nigeria,2020,Malaria,1198,69
+South Africa,2021,Measles,1878,241
+Kenya,2020,Measles,1315,128
+Kenya,2019,Tuberculosis,1031,62
+Ethiopia,2021,Cholera,1513,106
+South Africa,2020,Malaria,741,84
+Ethiopia,2021,Measles,1130,108
+Kenya,2019,Tuberculosis,1379,107
+Kenya,2021,Measles,1546,77
+Kenya,2020,Measles,867,66
+Ghana,2019,Malaria,798,81
+Nigeria,2019,Malaria,1202,177
+Ethiopia,2019,Malaria,1293,188
+Nigeria,2019,Malaria,857,108
+Ethiopia,2021,Malaria,737,40
+Ghana,2021,Cholera,1509,139
+South Africa,2021,Measles,1784,113
+Kenya,2019,Malaria,1967,268
+Ethiopia,2020,Cholera,1743,166
+Nigeria,2021,Malaria,548,58
+Ghana,2019,Measles,1969,178
+Ethiopia,2021,Measles,537,43
+Kenya,2019,Tuberculosis,791,67
+Nigeria,2019,Malaria,507,66
+Ghana,2021,Cholera,1950,132
+Kenya,2019,Tuberculosis,626,63
+Ghana,2020,Tuberculosis,1656,105
+Ethiopia,2021,Measles,1376,163
+Kenya,2019,Malaria,840,100
+South Africa,2020,Cholera,1256,126
+Nigeria,2020,Cholera,1699,220
+Nigeria,2021,Measles,1301,180
+Nigeria,2019,Malaria,1986,273
+Ghana,2021,Measles,869,68
+South Africa,2019,Tuberculosis,1472,91
+Nigeria,2019,Malaria,1873,255
+Nigeria,2019,Cholera,1720,228
+Kenya,2020,Measles,1518,114
+Ghana,2020,Malaria,1395,198
+Nigeria,2021,Malaria,952,91
+Ethiopia,2020,Cholera,1217,132
+South Africa,2020,Cholera,883,106
+Ethiopia,2019,Tuberculosis,1348,177
+Kenya,2021,Tuberculosis,923,50
+Nigeria,2021,Malaria,1000,68
+Ghana,2019,Tuberculosis,1600,140
+South Africa,2019,Measles,738,60
+South Africa,2019,Tuberculosis,955,133
+South Africa,2019,Cholera,1786,122
+Ethiopia,2021,Measles,1264,149
+Kenya,2019,Tuberculosis,557,51
+Kenya,2020,Measles,1800,201
+South Africa,2019,Malaria,508,40
+Ethiopia,2019,Measles,641,75
+South Africa,2020,Cholera,859,70
+Kenya,2020,Cholera,1026,68
+South Africa,2019,Measles,902,124
+Kenya,2020,Malaria,1006,124
+South Africa,2020,Measles,989,108
